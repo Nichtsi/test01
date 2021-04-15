@@ -6,4 +6,6 @@ package com.xiangyang;
 public class Person {
 
     private Integer id;
+    //这里为clone之后的修改
+    private String name;
 }
